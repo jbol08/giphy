@@ -3,3 +3,5 @@
 • Allow for more GIFs to be loaded on the page until the user clicks remove images.
 • GIFs will load 3 x 3 until the remove button has been clicked.
 • Used jQuery, HTML, Bootstrap.
+
+Link to page: https://jbol08.github.io/giphy/
